@@ -1,4 +1,4 @@
-### Hola 👋, my name is Aaron
+### Hi 👋, my name is Aaron
 #### I'm appasionate developer 
 ![I'm appasionate web developer ](https://github.com/AaronJimenez96/AaronJimenez96/blob/3a01c61d3bee4c21f49d1ffe1583ccc5acbaf037/Simple%20Technology%20LinkedIn%20Banner.gif)
 
